@@ -47,5 +47,5 @@ for image in images:
         count += 1
     except:
         pass
-
+#
 driver.close()
